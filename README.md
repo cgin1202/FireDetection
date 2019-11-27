@@ -8,3 +8,6 @@
 
 
 
+#### 프로젝트 영상
+
+[![Video Label](image/firedetection_cap.JPG)](https://www.youtube.com/watch?v=u05g81ZfnmE&feature=youtu.be)
